@@ -1,7 +1,9 @@
-Hello RMAL Team!
+Hello! 
 
-This task ended up being quite fun, I think my solution is quite reasonable. Please see in this repository the C++ script, excel file, and pdf file for my controller program, results, and short memo.
 
-Thank you guys again for this opportunity!
+This task was initially completed as a demonstration of competence for the RMAL Research lab team at TMU.
 
--Phillip
+
+# Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=_e_1ut54fdM)
